@@ -1,0 +1,35 @@
+.input-group {
+    flex-direction: column;
+}
+
+#search-history {
+    width: 100%;
+    background-color: rgb(68, 68, 68);
+    margin-top: 5%;
+    color:beige;
+}
+
+#search-history:hover {
+    background-color: rgb(100, 100, 100);
+}
+
+.search-button {
+    width: 100%;
+    background-color: rgb(97, 97, 253);
+    margin-top: 5%;
+    color: aliceblue;
+}
+
+.search-button:hover {
+    background-color: rgb(165, 165, 253);
+}
+
+p {
+    margin-top: 2%;
+}
+
+.forecast-cards {
+    margin: 1px;
+    background-color: rgb(50, 50, 90);
+    color: aliceblue;
+}

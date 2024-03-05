@@ -2,7 +2,14 @@
 
 ## Project Description
 
-The following project uses the [5 Day Weather Forecast](https://openweathermap.org/forecast5) API to retrieve weather data for cities and build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+The following project uses the [5 Day Weather Forecast](https://openweathermap.org/forecast5) API to retrieve weather data for cities and build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Here, the user is able to enter a city and gain a 5 day forecast for their chosen destination. They are then able to search for weather forecasts for other cities, and find their recent searches on the left side menu, underneath the search button.
+
+### APIs
+
+Following APIs were used within this project:
+
+* [Day.js](https://day.js.org/docs/en/display/format)
+* [5 Day Weather Forecast](https://openweathermap.org/forecast5)
 
 ### Home Page
 ![Main screen for forecaster](assets/images/main_screen.png)
@@ -35,4 +42,4 @@ Designed primarily for a desktop experience, the site can be accessed on small s
 
 ### GitHub Pages:
 
-[GitHub Pages](https://sunielmudhar.github.io/planner-app/)
+[GitHub Pages](https://sunielmudhar.github.io/Weather-Dashboard/)
